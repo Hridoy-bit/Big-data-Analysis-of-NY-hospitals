@@ -1,7 +1,10 @@
-# Dta visualization and analysis of the discharge report of hospitals from NY state
+# Data visualization and analysis of the discharge report of hospitals from NY state
 
 
 https://public.tableau.com/app/profile/hridoy.biswas/viz/Hospital_discharge_20Mdata/Dashboard1
+
+
+![Dashboard 1](https://github.com/Hridoy-bit/Big-data-Analysis-of-NY-hospitals/assets/60895200/369b9d26-6460-4538-832a-72ef2cbe2813)
 
 ## The data has been collected from health.gov website which is more than 1m people. 
 
