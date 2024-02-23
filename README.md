@@ -16,8 +16,7 @@
  --- What are the most diagnosis category for people?
 
  # Analysis results:
-
- -- The manchester county has the highest cost and the highest number of people has been discharged
+--  The manchester county has the highest cost and the highest number of people has been discharged
  -- Most people discharge are age more that 70 
  -- The most dicharge diagnosis category were newborn and COVID-19
  -- The male has higher ratio to get discharged
