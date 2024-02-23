@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/hridoy.biswas/viz/Hospital_discharge_20Md
 
 ![Dashboard 1](https://github.com/Hridoy-bit/Big-data-Analysis-of-NY-hospitals/assets/60895200/369b9d26-6460-4538-832a-72ef2cbe2813)
 
-## The data has been collected from health.gov website which is more than 1m people. 
+## The data has been collected from health.gov website which is more than 1M people. 
 
 -- The dataset has issues with column and modificatin has been done
 -- The data analysis has been performed using Tableau
